@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Virupax
 - 👀 I’m interested in Coding, Gaming, Cooking and Graphic Designing
-- 🌱 I’m currently learning React, GraphQL and Azure
+- 🌱 I’m currently learning React, GraphQL and AWS
 - 💞️ I’m looking to collaborate on Javascript, Java or C# projects
 - 📫 How to reach me email: virupax.ckk@gmail.com
 
